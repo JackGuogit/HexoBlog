@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jackguogitee.gitee.io/hexoblog/categories/index.html</loc>
+    <loc>https://jackguogitee.gitee.io/categories/index.html</loc>
     
     <lastmod>2021-03-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackguogitee.gitee.io/hexoblog/tags/index.html</loc>
+    <loc>https://jackguogitee.gitee.io/tags/index.html</loc>
     
     <lastmod>2021-03-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackguogitee.gitee.io/hexoblog/2021/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://jackguogitee.gitee.io/2021/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-03-11</lastmod>
     
@@ -24,7 +24,7 @@
   
 
   <url>
-    <loc>https://jackguogitee.gitee.io/hexoblog</loc>
+    <loc>https://jackguogitee.gitee.io/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -32,7 +32,7 @@
 
   
   <url>
-    <loc>https://jackguogitee.gitee.io/hexoblog/tags/Hexo/</loc>
+    <loc>https://jackguogitee.gitee.io/tags/Hexo/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
