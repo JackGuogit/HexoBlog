@@ -3,11 +3,11 @@
   <title>子木小站</title>
   
   
-  <link href="https://jackguogitee.gitee.io/atom.xml" rel="self"/>
+  <link href="http://hexo.zimublog.top/atom.xml" rel="self"/>
   
-  <link href="https://jackguogitee.gitee.io/"/>
-  <updated>2021-03-11T13:41:22.281Z</updated>
-  <id>https://jackguogitee.gitee.io/</id>
+  <link href="http://hexo.zimublog.top/"/>
+  <updated>2021-03-14T13:44:54.054Z</updated>
+  <id>http://hexo.zimublog.top/</id>
   
   <author>
     <name>郭子木</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Hexo的使用记录--不定期更新</title>
-    <link href="https://jackguogitee.gitee.io/2021/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://jackguogitee.gitee.io/2021/03/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://hexo.zimublog.top/2021/03/10/My%20first%20blog/"/>
+    <id>http://hexo.zimublog.top/2021/03/10/My%20first%20blog/</id>
     <published>2021-03-10T13:50:13.000Z</published>
-    <updated>2021-03-11T13:41:22.281Z</updated>
+    <updated>2021-03-14T13:44:54.054Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="常用命令"><a href="#常用命令" class="headerlink" title="#常用命令"></a>#常用命令</h1><h3 id="1，本地调试"><a href="#1，本地调试" class="headerlink" title="1，本地调试"></a>1，本地调试</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><h3 id="2，生成静态网页"><a href="#2，生成静态网页" class="headerlink" title="2，生成静态网页"></a>2，生成静态网页</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure><h3 id="3，清除缓存"><a href="#3，清除缓存" class="headerlink" title="3，清除缓存"></a>3，清除缓存</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure><h3 id="4，生成文章"><a href="#4，生成文章" class="headerlink" title="4，生成文章"></a>4，生成文章</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;博客文章名称&quot;</span><br></pre></td></tr></table></figure><h3 id="5，推向Git"><a href="#5，推向Git" class="headerlink" title="5，推向Git"></a>5，推向Git</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h1><h3 id="1，本地调试"><a href="#1，本地调试" class="headerlink" title="1，本地调试"></a>1，本地调试</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><h3 id="2，生成静态网页"><a href="#2，生成静态网页" class="headerlink" title="2，生成静态网页"></a>2，生成静态网页</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure><h3 id="3，清除缓存"><a href="#3，清除缓存" class="headerlink" title="3，清除缓存"></a>3，清除缓存</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure><h3 id="4，生成文章"><a href="#4，生成文章" class="headerlink" title="4，生成文章"></a>4，生成文章</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;博客文章名称&quot;</span><br></pre></td></tr></table></figure><h3 id="5，推向Git"><a href="#5，推向Git" class="headerlink" title="5，推向Git"></a>5，推向Git</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>]]></content>
     
     
     <summary type="html">Hexo的搭建过程及遇到的问题</summary>
@@ -31,7 +31,7 @@
     
     
     
-    <category term="Hexo" scheme="https://jackguogitee.gitee.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://hexo.zimublog.top/tags/Hexo/"/>
     
   </entry>
   
