@@ -46,7 +46,7 @@
 
   <url>
     <loc>http://hexo.zimublog.top/</loc>
-    <lastmod>2021-03-15</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,21 +54,21 @@
   
   <url>
     <loc>http://hexo.zimublog.top/tags/%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2021-03-15</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://hexo.zimublog.top/tags/MV/</loc>
-    <lastmod>2021-03-15</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://hexo.zimublog.top/tags/Hexo/</loc>
-    <lastmod>2021-03-15</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +77,7 @@
   
   <url>
     <loc>http://hexo.zimublog.top/categories/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2021-03-15</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
